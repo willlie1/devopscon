@@ -5,6 +5,7 @@
 	<artifactId>helloworld-reactor</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
+	<!-- this is a demo repo -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<javaVersion>1.8</javaVersion>
